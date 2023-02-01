@@ -41,3 +41,4 @@ var articulosBaratos = articulos.some(function(articulo) {
 });
 console.log(articulosBaratos)
 //Esto regresa un true, solo una validación 
+//Hola un cambio
